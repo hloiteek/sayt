@@ -1,0 +1,55 @@
+header{
+    width: 1440px;
+    height: 160px;
+}
+
+.golovka_box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.golovka_box1{
+    display: flex;
+    flex-direction: row;
+}
+
+.golovka_box2{
+    display: flex;
+    flex-direction: row;
+}
+
+.text{
+    display: flex;
+    flex-direction: row;
+}
+
+.textj{
+    font-family: 'Regular', Roboto;
+    color: #2A2A2A; 
+
+    display: flex;
+    flex-direction: row;
+}
+
+.choto{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.n{
+    border-width: 1px;
+}
+
+.a{
+    color: #B3B3B3;
+}
+
+.kartinka{
+    display: flex;
+    flex-direction: row;
+}
+
+.seriy{
+    color: #A8A8A8;
+}
