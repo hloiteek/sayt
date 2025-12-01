@@ -45,6 +45,12 @@ header{
     color: #B3B3B3;
 }
 
+.kartinki{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 .kartinka{
     display: flex;
     flex-direction: row;
@@ -52,4 +58,23 @@ header{
 
 .seriy{
     color: #A8A8A8;
+
+    margin-left: 5px;
+}
+
+.cena{
+    display: flex;
+    flex-direction: row;
+
+    margin-top: -20px;
+}
+
+.c{
+    color: #808080;
+}
+
+.k{
+    color: #FF3451;
+
+    margin-left: 5px;
 }
